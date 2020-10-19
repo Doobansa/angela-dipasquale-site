@@ -1,0 +1,91 @@
+.navbar{
+  background-color: black;
+  margin: auto;
+}
+
+.nav-item{
+  padding: 10px;
+}
+
+body{
+  background-color: #e5e5e5;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.jumbotron{
+  border-radius: 0px;
+}
+.card{
+  min-width: 18rem;
+  margin: auto;
+  min-height: 300px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 20px grey;
+}
+
+.card-img-top{
+  height: 200px;
+  min-height: 50px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+
+
+}
+.row{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.col-sm-6{
+padding: 40px;
+}
+
+.articles{
+  margin-top: -32px;
+}
+
+.articles .container{
+  padding: 20px;
+  margin: auto;
+}
+
+.articles .btn{
+  float: right;
+}
+
+.single-img-top{
+  min-height: 500px;
+  height: auto;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top:60px;
+}
+
+.single .container{
+  padding: 50px;
+}
+
+.footer{
+
+  min-height: 400px;
+}
